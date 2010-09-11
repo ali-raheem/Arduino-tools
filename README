@@ -1,1 +1,15 @@
- 
+Arduino tools
+
+A collection of scripts and programs which work onthe arduino.
+
+
+
+Current scripts:
+G-meter - Makes use of a acceleromter to calculate G's useful for a car? http://img547.imageshack.us/img547/5369/output.jpg
+KCLSS - Interface for an operation style game.
+lcd - A light meter
+SMD - An interface for the sega mega drive controller.
+
+
+
+As with all my projects all contributions openly welcome.
